@@ -1,0 +1,16 @@
+body{
+    background-color:cornsilk;
+    font-style:italic;
+    font-family: cursive;
+}
+
+.heading{
+    width:80% ;
+    font-size: 22px;
+}
+
+#camera{
+    border: 2px dashed lightsalmon;
+    width: 350px;
+    height: 350px;
+}
